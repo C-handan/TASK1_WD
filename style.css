@@ -171,7 +171,7 @@ li {
     z-index: 1;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border-radius: 8px;
-    bottom: 340px;
+    bottom: 350px;
     left: 310px;
     position: relative;
     display: inline;
@@ -180,16 +180,16 @@ li {
     padding-right: 40px;
     padding-left: 40px;
     /* padding-top: 45px; */
-    padding-top: 17px;
+    padding-top: 15px;
     background-color: black; 
     color: white;
-    padding-bottom: 17px;
+    padding-bottom: 15px;
 
 }
 #popular {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-top: 40px;
-    bottom: 340px;
+    bottom: 350px;
     left: 310px;
     padding-left: 40px;
     position: relative;
@@ -385,23 +385,23 @@ li {
 #five {
     z-index: 1;
     position: absolute;
-    bottom: 280px;
+    bottom: 275px;
     left: 1230px;
 }
 #six {
     z-index: 1;
     position: absolute;
     left: 1230px;
-    bottom: 20px;
+    bottom: 15px;
 }
 #seven {
-    bottom: 105px;
+    bottom: 100px;
     z-index: 1;
     position: absolute;
     left: 1230px;
 }
 #eight {
-    bottom: 192px;
+    bottom: 187px;
     z-index: 1;
     position: absolute;
     left: 1230px;
